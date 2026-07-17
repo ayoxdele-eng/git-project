@@ -1,4 +1,21 @@
-This is my first git project
+This is my a git project
+
+The details of the 
+
+
+
+ this is me trying
+
+ trying to ...
+
+
+
+
+hi, this is saliu
+
+
+ 
+
 
 The details of the project can be found in the url https://baso.com
 
